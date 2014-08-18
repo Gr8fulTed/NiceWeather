@@ -1,6 +1,6 @@
 NiceWeather 
 ===========
-![Logo](http://imgur.com/gadTF2w.png =40x)
+![Logo](http://imgur.com/Dum0p6K)
 ### Premise
 Never know what to say in those awkward situations? NiceWeather is the app for you. It provides crowdsourced excuses, euphemisms and pleasantries for any difficult social situations you might find yourself in. Add and share your own tips and vote and comment on those of others!
 
