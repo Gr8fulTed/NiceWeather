@@ -1,6 +1,5 @@
 NiceWeather 
 ===========
-![Logo](http://i.imgur.com/Dum0p6K.png)
 ### Premise
 Never know what to say in those awkward situations? NiceWeather is the app for you. It provides crowdsourced excuses, euphemisms and pleasantries for any difficult social situations you might find yourself in. Add and share your own tips and vote and comment on those of others!
 
@@ -10,6 +9,7 @@ NiceWeather is an iOS app targeting iOS 7+ on iPhones, iPads and iPods. The back
 ### Contributing
 Contributions are welcome! Feel free to fork and send pull requests to your heart's content. More detailed contributing information will be added once the project's codebase is up and running.
 
+![Logo](http://i.imgur.com/Dum0p6K.png)
 
 
 
