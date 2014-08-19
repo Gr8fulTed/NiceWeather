@@ -22,6 +22,8 @@ html {
 
 
   html, body {
+      margin: 0;
+      padding: 0;
       height: 100%;
   }
   html {
@@ -33,3 +35,12 @@ html {
       background-color:#000000;
       background-image:url('../img/app-bkg-v2.jpg');
   }
+
+
+.app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: black;
+  opacity: 0.8;
+}
