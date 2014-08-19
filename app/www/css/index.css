@@ -41,6 +41,11 @@ div.item > .fa {
   margin-top: 5px;
 }
 
+::-webkit-input-placeholder {
+   color: white;
+}
+
+
 
 
 div.trending {
