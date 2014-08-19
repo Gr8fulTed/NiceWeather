@@ -17,17 +17,10 @@ body {
   color: white;
 }
 
-/*
-html {
-  background: url(../img/app-bkg-v2.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}*/
-
 
   html, body {
+      margin: 0;
+      padding: 0;
       height: 100%;
   }
   html {
@@ -39,3 +32,12 @@ html {
       background-color:#000000;
       background-image:url('../img/app-bkg-v2.jpg');
   }
+
+
+.app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: black;
+  opacity: 0.8;
+}
