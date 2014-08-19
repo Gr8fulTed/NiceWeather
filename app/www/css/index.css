@@ -22,6 +22,7 @@ input {
   border-radius: 0;
   color: white;
   margin-left: 10px;
+  text-indent: 20px;
   height: 20px;
   width: 280px;
   background-color: rgba(151, 151, 151, 1);
@@ -79,6 +80,12 @@ h1 {
       background-image:url('../img/app-bkg-v2.jpg');
   }
 
+
+.app > .fa-search {
+  position: absolute;
+  margin-left: 14px;
+  margin-top: 4px;
+}
 
 .app {
   margin: 0;
