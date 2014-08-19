@@ -14,9 +14,27 @@
 
 body {
   font-family: 'Open Sans Light';
+  font-weight: 300;
   color: white;
 }
 
+input {
+  border-radius: 0;
+  color: white;
+  margin-left: 10px;
+  height: 20px;
+  width: 300px;
+  background-color: rgba(151, 151, 151, 1);
+  border: 1px solid #979797;
+
+}
+
+
+h1 {
+  font-size: 24px;
+  margin-left: 10px;
+  vertical-align: center;
+}
 
   html, body {
       margin: 0;
@@ -38,6 +56,5 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
-  background-color: black;
-  opacity: 0.8;
+  background-color: rgba(0, 0, 0, 0.8);
 }
