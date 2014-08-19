@@ -1,5 +1,13 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/OpenSans.woff) format('woff');
+}
+
+
 body {
-  font-family: Arial;
+  font-family: 'Open Sans';
   color: white;
 }
 
