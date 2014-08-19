@@ -1,11 +1,27 @@
 body {
   font-family: Arial;
+  color: white;
 }
 
+/*
 html {
   background: url(../img/app-bkg-v2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
+}*/
+
+
+  html, body {
+      height: 100%;
+  }
+  html {
+      overflow-y: hidden;
+  }
+  body {
+      overflow-y: scroll;
+      background-size: cover;
+      background-color:#000000;
+      background-image:url('../img/app-bkg-v2.jpg');
+  }

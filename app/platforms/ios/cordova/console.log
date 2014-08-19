@@ -54,3 +54,49 @@ You could find it at the following address https://developer.apple.com/icloud/do
 
 2014-08-19 18:49:58.307 NiceWeather[21207:70b] Resetting plugins due to page load.
 2014-08-19 18:49:58.364 NiceWeather[21207:70b] Finished load of: file:///Users/alexandernielsen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/D8E5B9A1-932B-4B9E-B59B-9FD3EA5ECE0F/NiceWeather.app/www/index.html
+2014-08-19 18:51:22.566 NiceWeather[21530:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 18:51:22.575 NiceWeather[21530:70b] Unlimited access to network resources
+2014-08-19 18:51:22.579 NiceWeather[21530:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-19 18:51:22.710 NiceWeather[21530:70b] Resetting plugins due to page load.
+2014-08-19 18:51:22.751 NiceWeather[21530:70b] Finished load of: file:///Users/alexandernielsen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/D8E5B9A1-932B-4B9E-B59B-9FD3EA5ECE0F/NiceWeather.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-08-19 18:53:42.957 NiceWeather[22009:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 18:53:42.966 NiceWeather[22009:70b] Unlimited access to network resources
+2014-08-19 18:53:42.969 NiceWeather[22009:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-19 18:53:43.110 NiceWeather[22009:70b] Resetting plugins due to page load.
+2014-08-19 18:53:43.159 NiceWeather[22009:70b] Finished load of: file:///Users/alexandernielsen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/D8E5B9A1-932B-4B9E-B59B-9FD3EA5ECE0F/NiceWeather.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-08-19 18:55:31.204 NiceWeather[22163:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 18:55:31.213 NiceWeather[22163:70b] Unlimited access to network resources
+2014-08-19 18:55:31.217 NiceWeather[22163:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-19 18:55:31.355 NiceWeather[22163:70b] Resetting plugins due to page load.
+2014-08-19 18:55:31.394 NiceWeather[22163:70b] Finished load of: file:///Users/alexandernielsen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/D8E5B9A1-932B-4B9E-B59B-9FD3EA5ECE0F/NiceWeather.app/www/index.html
+2014-08-19 18:58:41.696 NiceWeather[22315:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 18:58:41.705 NiceWeather[22315:70b] Unlimited access to network resources
+2014-08-19 18:58:41.709 NiceWeather[22315:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-19 18:58:41.847 NiceWeather[22315:70b] Resetting plugins due to page load.
+2014-08-19 18:58:41.884 NiceWeather[22315:70b] Finished load of: file:///Users/alexandernielsen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/D8E5B9A1-932B-4B9E-B59B-9FD3EA5ECE0F/NiceWeather.app/www/index.html
