@@ -5,9 +5,15 @@
   src: url(../fonts/OpenSans.woff) format('woff');
 }
 
+@font-face {
+  font-family: 'Open Sans Light';
+  font-style: normal;
+  src: url(../fonts/OpenSans-Light.woff) format('woff');
+}
+
 
 body {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans Light';
   color: white;
 }
 
