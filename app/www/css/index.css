@@ -18,15 +18,26 @@ body {
   color: white;
 }
 
-input {
-  border-radius: 0;
-  color: white;
-  margin-left: 10px;
-  text-indent: 20px;
+
+div.search-border {
   height: 20px;
   width: 280px;
-  background-color: rgba(151, 151, 151, 1);
-  border: 1px solid #979797;
+  border: 1px solid white;
+  /*background-color: rgba(151, 151, 151, 1);*/
+}
+
+input {
+  border-radius: 0;
+  float: right;
+  color: white;
+  background-color: transparent;
+  margin-left: 10px;
+  border: none;
+  height: 18px;
+  width: 220px;
+
+  font-size: 16px;
+
 }
 
 .title {
@@ -49,10 +60,11 @@ div.item > .fa {
 
 
 div.trending {
+  float: left;
   background-color: rgba(255, 255, 255, 0.8);
   margin-left: 10px;
   margin-top: 10px;
-  width: 292px;
+  width: 295px;
   margin-bottom: 50px;
 }
 
@@ -86,10 +98,8 @@ h1 {
   }
 
 
-.app > .fa-search {
-  position: absolute;
-  margin-left: 14px;
-  margin-top: 4px;
+.fa-search {
+  float: left;
 }
 
 .app {
